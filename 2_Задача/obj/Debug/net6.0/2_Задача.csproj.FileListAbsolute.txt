@@ -1,0 +1,15 @@
+/Users/aleksandra/Desktop/Разработчик/Знакомство с С#/1_семинар/2_Задача/obj/Debug/net6.0/2_Задача.csproj.AssemblyReference.cache
+/Users/aleksandra/Desktop/Разработчик/Знакомство с С#/1_семинар/2_Задача/obj/Debug/net6.0/2_Задача.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandra/Desktop/Разработчик/Знакомство с С#/1_семинар/2_Задача/obj/Debug/net6.0/2_Задача.AssemblyInfoInputs.cache
+/Users/aleksandra/Desktop/Разработчик/Знакомство с С#/1_семинар/2_Задача/obj/Debug/net6.0/2_Задача.AssemblyInfo.cs
+/Users/aleksandra/Desktop/Разработчик/Знакомство с С#/1_семинар/2_Задача/obj/Debug/net6.0/2_Задача.csproj.CoreCompileInputs.cache
+/Users/aleksandra/Desktop/Разработчик/Знакомство с С#/1_семинар/2_Задача/bin/Debug/net6.0/2_Задача
+/Users/aleksandra/Desktop/Разработчик/Знакомство с С#/1_семинар/2_Задача/bin/Debug/net6.0/2_Задача.deps.json
+/Users/aleksandra/Desktop/Разработчик/Знакомство с С#/1_семинар/2_Задача/bin/Debug/net6.0/2_Задача.runtimeconfig.json
+/Users/aleksandra/Desktop/Разработчик/Знакомство с С#/1_семинар/2_Задача/bin/Debug/net6.0/2_Задача.dll
+/Users/aleksandra/Desktop/Разработчик/Знакомство с С#/1_семинар/2_Задача/bin/Debug/net6.0/2_Задача.pdb
+/Users/aleksandra/Desktop/Разработчик/Знакомство с С#/1_семинар/2_Задача/obj/Debug/net6.0/2_Задача.dll
+/Users/aleksandra/Desktop/Разработчик/Знакомство с С#/1_семинар/2_Задача/obj/Debug/net6.0/refint/2_Задача.dll
+/Users/aleksandra/Desktop/Разработчик/Знакомство с С#/1_семинар/2_Задача/obj/Debug/net6.0/2_Задача.pdb
+/Users/aleksandra/Desktop/Разработчик/Знакомство с С#/1_семинар/2_Задача/obj/Debug/net6.0/2_Задача.genruntimeconfig.cache
+/Users/aleksandra/Desktop/Разработчик/Знакомство с С#/1_семинар/2_Задача/obj/Debug/net6.0/ref/2_Задача.dll
