@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/aleksandra/Desktop/Разработчик/Знакомство с С#/1_семинар/3_Задача/3_Задача.csproj": {}
+  },
+  "projects": {
+    "/Users/aleksandra/Desktop/Разработчик/Знакомство с С#/1_семинар/3_Задача/3_Задача.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aleksandra/Desktop/Разработчик/Знакомство с С#/1_семинар/3_Задача/3_Задача.csproj",
+        "projectName": "3_Задача",
+        "projectPath": "/Users/aleksandra/Desktop/Разработчик/Знакомство с С#/1_семинар/3_Задача/3_Задача.csproj",
+        "packagesPath": "/Users/aleksandra/.nuget/packages/",
+        "outputPath": "/Users/aleksandra/Desktop/Разработчик/Знакомство с С#/1_семинар/3_Задача/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aleksandra/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
